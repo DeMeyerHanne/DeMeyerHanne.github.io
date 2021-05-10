@@ -459,12 +459,12 @@
 }
 
 /* Reveal animations */
-// .sr {
+.sr {
 
-// 	.has-animations {
+	.has-animations {
 
-// 		.is-revealing {
-// 			visibility: hidden;
-// 		}
-// 	}
-// }
+		.is-revealing {
+			visibility: visible;
+		}
+	}
+}
